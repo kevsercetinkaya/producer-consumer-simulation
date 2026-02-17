@@ -31,6 +31,6 @@ The simulation models:
 
 ## Contributors
 - Kevser Çetinkaya
-- Zerda Kayhan
+
 
 
